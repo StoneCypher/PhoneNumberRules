@@ -1,4 +1,3 @@
-
 Default notations by country
 ============================
 
@@ -11,3 +10,11 @@ given country before trying to parse mixed data.
 |---------------|------------------|------------------|-------|
 | Canada        | 1 (111) 111-1111 | 1 (919) 555-0199 | todo  |
 | United States | 1 (111) 111-1111 | 1 (647) 555-0199 | todo  |
+
+
+
+
+What's the point?
+-----------------
+
+I'm going to try to curate a usable list over time.  Please donate your nation's expertise.  :)
